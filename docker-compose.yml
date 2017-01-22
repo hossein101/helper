@@ -1,4 +1,0 @@
-instagrambot:
-    build: .
-    volumes:
-     - database/:/usr/src/app/database
